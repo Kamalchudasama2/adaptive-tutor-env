@@ -2,7 +2,6 @@
 
 > 🚀 OpenEnv + Reinforcement Learning · Hackathon 2025
 
-**Author:** Suraj Badiger  
 **Tags:** `Reinforcement Learning` · `LLM Fine-Tuning` · `Adaptive Education` · `OpenEnv`
 
 ---
